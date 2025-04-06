@@ -17,9 +17,9 @@ This Power BI dashboard provides a comprehensive visualization of sales performa
 - A count of **payment modes** used, segmented by the **first payment method** (COD, Credit Card, Debit Card, EMI, UPI).
 
 ### Summary KPIs
-- **Total Sales (₹)**
+- **Total Sales**
 - **Total Net Quantity**
 - **Order Count**
-- **Returns Value (₹)**
+- **Returns ValuE**
 
 This dashboard empowers stakeholders to monitor sales dynamics, regional performance, product distribution, and customer payment preferences—all in one cohesive view.
